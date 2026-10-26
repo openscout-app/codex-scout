@@ -17,7 +17,7 @@ What it provides:
 Add the marketplace and install the plugin from Codex:
 
 ```text
-/plugin marketplace add oscout/codex-scout
+/plugin marketplace add openscout-app/codex-scout
 ```
 
 For local development:
