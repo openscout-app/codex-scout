@@ -11,7 +11,7 @@
 
 Request a review or hand off work from Codex, follow the result, and continue the same work.
 
-[Website](https://oscout.github.io/codex-scout/) · [Install](#install) · [First ask](#first-ask) · [OpenScout](https://openscout.app) · [All integrations](https://github.com/oscout)
+[Website](https://openscout-app.github.io/codex-scout/) · [Install](#install) · [First ask](#first-ask) · [OpenScout](https://openscout.app) · [All integrations](https://github.com/openscout-app)
 
 <!-- scout-illustration:start -->
 <p align="center">
@@ -28,7 +28,7 @@ Request a review or hand off work from Codex, follow the result, and continue th
 From Codex:
 
 ```text
-/plugin marketplace add oscout/codex-scout
+/plugin marketplace add openscout-app/codex-scout
 ```
 
 The marketplace declares the `scout` plugin as installed by default. If your
